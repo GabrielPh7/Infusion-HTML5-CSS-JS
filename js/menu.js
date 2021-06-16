@@ -36,7 +36,6 @@ function Menu(config) {
   this.btn.addEventListener("click", openOrClose);
 
   function openOrClose() {
-    console.log("Olá");
     if (!_opened) {
       openMenu();
     } else {
