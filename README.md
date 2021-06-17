@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./Responsive1.gif" alt="ProjetoInfusion" />
+  <img src="Responsive1.gif" alt="ProjetoInfusion" />
 
 &#xa0;
 
