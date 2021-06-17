@@ -1,5 +1,5 @@
 <div align="center" id="top"> 
-  <img src="./.github/app.gif" alt="ProjetoInfusion" />
+  <img src="./Responsive1.gif" alt="ProjetoInfusion" />
 
 &#xa0;
 
@@ -46,19 +46,15 @@
 
 ## :dart: About
 
-Describe your project
-
-## :sparkles: Features
-
-:heavy_check_mark: Feature 1;\
-:heavy_check_mark: Feature 2;\
-:heavy_check_mark: Feature 3;
+Projeto feito com as tecnologias HTML5, CSS3 e JS.
 
 ## :rocket: Technologies
 
 The following tools were used in this project:
 
-[]
+[JS]
+[HTML]
+[CSS3]
 
 ## :white_check_mark: Requirements
 
